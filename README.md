@@ -8,7 +8,7 @@ Je développe mes compétences pour transformer les données en insights clairs 
 Passionnée par l’analyse de données et la visualisation interactive.
 Je pratique le nettoyage et la manipulation de données avec Python (pandas, NumPy) et Excel/Google Sheets.
 Je m’intéresse à la Business Intelligence et à la création de dashboards pour aider à la prise de décision.
-Je suis en train d’apprendre les requêtes SQL avancées, la modélisation et les statistiques appliquées.
+J’apprends les requêtes SQL avancées, la modélisation et les statistiques appliquées.
 
 ## 🛠 Compétences & Outils :
 

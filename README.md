@@ -5,7 +5,7 @@
 Je suis Laura, et je prépare mon diplôme de Data Analyst avec OpenClassrooms.
 Je développe mes compétences pour transformer les données en insights clairs et exploitables.
 
-## 📝 À propos de moi :
+## 📝 <h2 style="color:cadetblue;"> À propos de moi :</h2>
 
 Passionnée par l’analyse de données et la visualisation interactive.
 Je pratique le nettoyage et la manipulation de données avec Python (pandas, NumPy) et Excel/Google Sheets.

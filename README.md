@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/style.css">
+
 # 👋 Bienvenue sur mon portfolio GitHub !
 
 Je suis Laura, et je prépare mon diplôme de Data Analyst avec OpenClassrooms.

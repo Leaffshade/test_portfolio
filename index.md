@@ -25,6 +25,4 @@ layout: default
 ---
 ## Contact
 - [LinkedIn](https://www.linkedin.com
-- [GitHub] (https://github.com
-[
-[[[
+- [GitHub] (https://github.com)
